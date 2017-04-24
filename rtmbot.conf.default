@@ -1,0 +1,3 @@
+SLACK_TOKEN: "YOUR TOKEN HERE"
+ACTIVE_PLUGINS:
+  - plugins.spotify.GenrePlugin
